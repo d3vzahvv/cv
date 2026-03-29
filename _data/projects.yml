@@ -1,16 +1,9 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# CV Project
+- project: Contrast Detection Auto Focus Algorithm
+  role: Computer Vision Project
+  duration: 2026
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Adopted a lightweight deep neural network / DNN to identify the Region of Interest / ROI. Conducted contrast detection and sharpness evaluation for the targeted ROI to screen out the optimal in-focus image with the highest clarity. Optimized the focusing algorithm via sparse sampling algorithm for higher speed and accuracy. Furthermore, simulated the depth from defocus / DFD algorithm to achieve an efficient and precise rapid focusing solution.

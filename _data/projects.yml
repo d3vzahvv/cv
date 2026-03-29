@@ -6,4 +6,4 @@
   role: Computer Vision Project
   duration: 2026
   # url: "#"
-  description: Adopted a lightweight deep neural network / DNN to identify the Region of Interest / ROI. Conducted contrast detection and sharpness evaluation for the targeted ROI to screen out the optimal in-focus image with the highest clarity. Optimized the focusing algorithm via sparse sampling algorithm for higher speed and accuracy. Furthermore, simulated the depth from defocus / DFD algorithm to achieve an efficient and precise rapid focusing solution.
+  description: Adopted a lightweight deep neural network (DNN) to identify the Region of Interest (ROI). Conducted contrast detection and sharpness evaluation for the targeted ROI to screen out the optimal in-focus image with the highest clarity. Optimized the focusing algorithm via sparse sampling algorithm for higher speed and accuracy. Furthermore, simulated the depth from defocus (DFD) algorithm to achieve an efficient and precise rapid focusing solution.

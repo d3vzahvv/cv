@@ -2,8 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # CV Project
-- project: Contrast Detection Auto Focus
+- project: Contrast Detection Auto-Focus
   role: Computer Vision Project
   duration: 2026
   # url: "#"
-  description: Adopted a lightweight deep neural network (DNN) to identify the Region of Interest (ROI). Conducted contrast detection and sharpness evaluation for the targeted ROI to screen out the optimal in-focus image with the highest clarity. Optimized the focusing algorithm via sparse sampling algorithm for higher speed and accuracy. Furthermore, simulated the depth from defocus (DFD) algorithm to achieve an efficient and precise rapid focusing solution.
+  description: Adopted a lightweight deep neural network (DNN) to identify the Region of Interest (ROI). Conducted contrast detection and sharpness evaluation for the targeted ROI to screen out the optimal in-focus image with the highest clarity. Optimized the focusing algorithm via Sparse Sampling algorithm for higher speed and accuracy. Furthermore, simulated the depth from defocus (DFD) algorithm to achieve an efficient and precise rapid focusing solution.
+
+# AIoT Project
+- project:     AIoT-Based Human Presence Detection
+  role: AIoT Project
+  duration: 2026
+  # url: "#"
+  description: Developed an AIoT human presence detection system using ESP32 with temperature, humidity, and light sensors. Applied a decision tree algorithm to achieve low-cost occupancy detection and environmental status analysis.

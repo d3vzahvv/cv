@@ -1,11 +1,14 @@
 # Skills
 
 - skill: Software Programming
-  description: Familiar with Object-Oriented Programming/OOP, not limited to a specific programming language
+  description: Familiar with Object-Oriented Programming/OOP, not limited to a specific programming language  
+               Knowledge of fundamental deep learning techniques, including MLP, CNN, RNN, Transformer, and LLM, with familiarity in transfer learning and Gaussian Splatting.
+               Knowledge of computer networking principles, including queueing theory, routing algorithms, and TCP/IP protocols.
 
 
 - skill: Hardware Programming
-  description: Exposure to hardware design and simulation, e.g. VHDL, FPGA, MCU
+  description: Exposure to hardware design and simulation, e.g. VHDL, FPGA, MCU  
+               Knowledge of fundamentals of semiconductor device physics and manufacturing processes, including wafer and crystal growth, oxidation, deposition, photolithography, doping, and MOS transistors.
 
 
 - skill: 3D Computer Aided Design
